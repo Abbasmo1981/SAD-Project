@@ -7,7 +7,7 @@ The system applies key architectural principles such as Simple Architecture, Cle
 maximum range of two years
 * Store the data in a database
 * Display graphs of daily share price over time ranges, for one or two different companies, so that
-users can view and compare share performance of the companies
+users can view and compare share performance of the companies  
 
 ## Project Details
 * **Group Name**: SAD Project
