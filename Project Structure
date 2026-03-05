@@ -1,0 +1,22 @@
+com.stockapp
+│
+├── controller
+│   └── StockController.java
+│
+├── service
+│   └── StockService.java
+│
+├── validation
+│   └── DateRangeValidator.java
+│
+├── api
+│   └── ExternalStockApiClient.java
+│
+├── repository
+│   └── StockRepository.java
+│
+├── model
+│   ├── StockPrice.java
+│   └── DateRange.java
+│
+└── Main.java
