@@ -1,0 +1,108 @@
+
+Team Project Setup and Allocation
+Prepared for Team Members:
+•	Abbas Mohamed – Student ID: A00041006
+•	Keeley Sheridan – Student ID: SHE23598145
+1. Team Code of Conduct
+This Code of Conduct explains how the team will work together during the project.
+The aim is to keep communication clear, divide the workload fairly, and ensure the project progresses smoothly.
+Both team members agree to follow these guidelines throughout the coursework.
+________________________________________
+2. Team Responsibilities
+Rule	Description
+Communication	All messages should be responded to within 24 hours where possible.
+Respect	Communication must always remain respectful and professional.
+Deadlines	Tasks should be completed before sprint deadlines.
+Collaboration	Important decisions should be discussed together before implementation.
+Accountability	Each member is responsible for their assigned tasks.
+________________________________________
+
+
+
+
+
+
+3. Workload Allocation
+Sprint 1
+Task	Responsible
+Requirements Identification	Abbas
+GitHub Repository Setup	Abbas
+Architecture Research	Abbas
+Abstract Java Implementation	Abbas
+Kanban Board Setup	Keeley
+User Story Management	Keeley
+Code of Conduct Draft	Keeley
+UML Component Diagram	Abbas & Keeley
+Documentation	Abbas & Keeley
+Sprint 2
+Task	Responsible
+Business Concept Model	Abbas
+Use Case Diagram	Abbas
+Use Case Steps Definition	Abbas
+System Interfaces & Operations	Abbas
+Business Type Model	Abbas
+Initial System Architecture Diagram	Abbas
+Business Interfaces & Collaboration Diagrams	Abbas
+Clean Architecture Implementation	Abbas
+Documentation & Report Writing	Keeley
+GitHub Task Tracking	Keeley
+ 
+ 
+Sprint 3
+Task	Responsible
+Logical Compound Components	Abbas
+Architecture Style Selection	Abbas
+SOA Principles Implementation	Abbas
+Component Implementation	Abbas
+Interface Implementation	Abbas
+Code Completion & Testing	Abbas
+Documentation Updates	Keeley
+GitHub Project Updates	Keeley
+Both members will collaborate on reviewing work before submission.
+________________________________________
+4. Weekly Meeting Schedule
+To track progress and stay organised, the team will hold two meetings each week.
+Day	Time	Format	Purpose
+Wednesday	6:00 PM – 7:00 PM	Microsoft Teams	Review progress, discuss architecture, assign tasks
+Friday	After class (30 mins)	In-person	Quick check-in and review sprint progress
+If a member cannot attend, they must notify the other member in advance.
+________________________________________
+ 
+5. Meeting Tracker
+All meetings will be recorded in a Meeting Tracker file stored on GitHub in the /docs folder.
+Date	Meeting Type	Attendees	Key Discussion	Tasks Assigned
+20/02/2026	Whats App	Abbas, keeley	Organising tasks	Sprint 1
+25/02/2026	Whats App 	Abbas, Keeley	Comp: Indivivual work 	Ind tasks
+04/03/2026	Whats App	Abbas, Keeley	Component design	Update UML diagram
+11/03/2026	Whats App 	Abbas, Keeley		
+This ensures clear records of teamwork and project decisions.
+
+6. GitHub Conduct
+Rule	Description
+Branching	All work must be completed in feature branches.
+Commits	Commit messages should be clear and meaningful.
+Reviews	Work should be reviewed before merging into develop.
+Main Branch	No direct commits to the main branch.
+Contributions	Both members should contribute regularly.
+________________________________________
+7. Academic Integrity
+Rule	Description
+Original Work	All submitted work must be original.
+Referencing	External sources must be referenced properly.
+No Plagiarism	Copying work without citation is not allowed.
+________________________________________
+8. Breach of Conduct
+If a problem occurs within the team, the following process will be followed:
+Step	Action
+Step 1	Discuss the issue privately between team members.
+Step 2	Agree on a solution or adjustment.
+Step 3	Record the outcome in the meeting tracker.
+Step 4	If unresolved, escalate to the module lecturer.
+________________________________________
+
+9. Agreement
+By signing below, both team members agree to follow the Code of Conduct and responsibilities outlined above.
+Name	Signature
+Abbas Mohamed	A. Mohamed
+Keeley Sheridan	Keeley Sheridan
+
