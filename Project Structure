@@ -1,22 +1,16 @@
-com.stockapp
-│
-├── controller
-│   └── StockController.java
-│
-├── service
-│   └── StockService.java
-│
-├── validation
-│   └── DateRangeValidator.java
-│
-├── api
-│   └── ExternalStockApiClient.java
-│
-├── repository
-│   └── StockRepository.java
-│
-├── model
-│   ├── StockPrice.java
-│   └── DateRange.java
-│
-└── Main.java
+src/
+ └── com/example/app/
+       ├── IPriceData.java
+       ├── PriceData.java
+       ├── IBrowserView.java
+       ├── BrowserView.java
+       ├── IUserInfo.java
+       ├── UserInfo.java
+       ├── IPriceRepository.java
+       ├── PriceRepository.java
+       ├── IChartService.java
+       ├── ChartService.java
+       ├── CompareService.java
+       ├── SharePriceService.java
+       ├── YahooApi.java
+       └── Main.java
