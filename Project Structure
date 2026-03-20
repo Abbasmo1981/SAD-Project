@@ -1,16 +1,26 @@
 src/
- └── com/example/app/
-       ├── IPriceData.java
-       ├── PriceData.java
-       ├── IBrowserView.java
-       ├── BrowserView.java
-       ├── IUserInfo.java
-       ├── UserInfo.java
-       ├── IPriceRepository.java
-       ├── PriceRepository.java
-       ├── IChartService.java
-       ├── ChartService.java
-       ├── CompareService.java
-       ├── SharePriceService.java
-       ├── YahooApi.java
-       └── Main.java
+ ├── model/
+ │     ChartData.java
+ │     ComparisonData.java
+ │     PriceData.java
+ │
+ ├── interfaces/
+ │     IChartService.java
+ │     ICompareShares.java
+ │     IGetSharePrices.java
+ │     IPriceDataProvider.java
+ │     IPriceRepository.java
+ │
+ ├── infrastructure/
+ │     YahooApi.java
+ │     SQLitePriceRepository.java
+ │     ChartService.java
+ │
+ ├── service/
+ │     SharePriceService.java
+ │     SharePriceConnector.java
+ │
+ ├── presentation/
+ │     SharePriceController.java
+ │
+ └── Main.java
